@@ -8,6 +8,8 @@
 // @require        https://code.jquery.com/jquery-3.1.0.js
 // @require        https://www.jqueryscript.net/demo/Easy-jQuery-Progress-Bar-Timer-Plugin-For-Bootstrap-3-progressTimer/js/jquery.progressTimer.js
 // @require        https://raw.githack.com/blumondayss/chatur/main/handlebars.js
+// @downloadURL    https://raw.githack.com/blumondayss/chatur/main/Chaturbate-JSON.js
+// @updateURL      https://raw.githack.com/blumondayss/chatur/main/Chaturbate-JSON.js
 // @grant          GM_xmlhttpRequest
 // @run-at         document-start
 // ==/UserScript==
